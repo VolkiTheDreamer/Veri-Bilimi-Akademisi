@@ -1,0 +1,12 @@
+#all .env files
+*.env
+#all hidden folders including virtual environments
+.*/
+#all folders starting with .cache
+.cache*/
+# all odp and odt files
+*.odp
+*.odt
+# DS Eğitim and Eğitim folders
+DS Eğitim/
+dikkat___________________________
