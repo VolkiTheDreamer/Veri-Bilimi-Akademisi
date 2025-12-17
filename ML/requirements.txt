@@ -1,0 +1,32 @@
+# Temel veri bilimi ve makine öğrenimi kütüphaneleri
+numpy>=1.25
+scipy
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+jupyterlab
+notebook
+ipykernel
+statsmodels
+scikit-image
+Pillow
+joblib
+xgboost
+lightgbm
+catboost
+optuna
+tensorflow
+torch
+torchvision
+
+# Geliştirme yardımcıları
+black
+isort
+flake8
+
+# (İhtiyaca göre ek paket ekleyin)
+forbiddenfruit
+pandas_flavor
+missingno
