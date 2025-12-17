@@ -8,3 +8,6 @@ dikkat___________________________
 DS eğitim/
 # all ipynb files with "cevaplar" at the end of the filename
 *cevaplar.ipynb
+
+# Ignore the regression example notebook
+ML/Regresyon ornek.ipynb
