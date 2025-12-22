@@ -30,3 +30,4 @@ flake8
 forbiddenfruit
 pandas_flavor
 missingno
+dython
