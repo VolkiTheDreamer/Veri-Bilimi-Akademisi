@@ -3,7 +3,6 @@
 # all odp and odt files
 *.odp
 *.odt
-dikkat___________________________
 # DS eğitim folder
 DS eğitim/
 # all ipynb files with "cevaplar" at the end of the filename
