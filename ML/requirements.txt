@@ -15,11 +15,7 @@ Pillow
 joblib
 xgboost
 lightgbm
-catboost
 optuna
-tensorflow
-torch
-torchvision
 
 # Geliştirme yardımcıları
 black
@@ -31,3 +27,4 @@ forbiddenfruit
 pandas_flavor
 missingno
 dython
+category_encoders
