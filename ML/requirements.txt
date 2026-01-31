@@ -1,5 +1,5 @@
 # Temel veri bilimi ve makine öğrenimi kütüphaneleri
-numpy>=1.25
+numpy
 scipy
 pandas
 scikit-learn
