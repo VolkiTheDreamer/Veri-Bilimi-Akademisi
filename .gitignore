@@ -8,8 +8,8 @@ DS eğitim/
 # all ipynb files with "cevaplar" at the end of the filename
 *cevaplar.ipynb
 
-# Ignore the regression example notebook
-ML/Regresyon ornek.ipynb
+ML/19_Regresyon ornek.ipynb
+ML/14-DT-Telecom_churnModel - ÖDEVVVVV
 ML/test folder
 
 *.mp4
