@@ -28,3 +28,5 @@ pandas_flavor
 missingno
 dython
 category_encoders
+imbalanced-learn
+openpyxl
