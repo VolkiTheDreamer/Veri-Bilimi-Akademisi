@@ -3,23 +3,26 @@
 # all odp and odt files
 *.odp
 *.odt
-# DS eğitim folder
-DS eğitim/
-# all ipynb files with "cevaplar" at the end of the filename
-*cevaplar.ipynb
-
-ML/19_Regresyon ornek.ipynb
-ML/14-DT-Telecom_churnModel - ÖDEVVVVV
-ML/test_folder_ve_odevler
-
 *.mp4
 *.jpg
-0_Odevler/
+
+DS eğitim/
+
+# ignore all __pycache__ folders in any subdirectory
+*/__pycache__/
+# ignore all odevler folders and 00testler notebook in any subdirectory
+*/odevler 
+*/00testler.ipynb
+# ignore all .pkl files in any subdirectory
+*/*.pkl
+
+# geçici ignorelar
+ML/19_Regresyon ornek.ipynb
+ML/14-DT-Telecom_churnModel - ÖDEVVVVV
 ML/10b_E2E_with_cuda_cuml.ipynb
-ML/finalmodel.pkl
-ML/finalpipe.pkl
-ML/__pycache__/custom_func_and_classes.cpython-313.pyc
 ML/loandefauldassignment.ipynb
 ML/yurtseven_volkan_final_DA514-Take Home exam.ipynb
 ML/LoR-Telecom_ChurnModel.ipynb
-Statistics/test_folder_ve_odevler
+ML/13_Naive_Bayes.ipynb
+ML/25_multilabelmulticlass.ipynb
+Statistics/Python ile İstatistik (TASLAK).ipynb
