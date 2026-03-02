@@ -10,7 +10,7 @@ DS eğitim/
 
 ML/19_Regresyon ornek.ipynb
 ML/14-DT-Telecom_churnModel - ÖDEVVVVV
-ML/test folder
+ML/test_folder_ve_odevler
 
 *.mp4
 *.jpg
@@ -22,3 +22,4 @@ ML/__pycache__/custom_func_and_classes.cpython-313.pyc
 ML/loandefauldassignment.ipynb
 ML/yurtseven_volkan_final_DA514-Take Home exam.ipynb
 ML/LoR-Telecom_ChurnModel.ipynb
+Statistics/test_folder_ve_odevler

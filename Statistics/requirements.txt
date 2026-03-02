@@ -1,0 +1,16 @@
+# Temel veri analizi ve istatistik kütüphaneleri
+numpy
+scipy
+pandas
+matplotlib
+notebook
+ipykernel
+statsmodels
+joblib
+pingouin
+
+# (İhtiyaca göre ek paket ekleyin)
+forbiddenfruit
+pandas_flavor
+dython
+openpyxl
